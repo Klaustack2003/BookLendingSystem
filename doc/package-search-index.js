@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.cg.training.annotations"},{"l":"com.cg.training.dao"},{"l":"com.cg.training.daoImplementation"},{"l":"com.cg.training.exceptions"},{"l":"com.cg.training.model"},{"l":"com.cg.training.service"},{"l":"com.cg.training.ui"},{"l":"com.cg.training.util"}];updateSearchResults();
